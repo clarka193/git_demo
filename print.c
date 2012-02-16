@@ -6,6 +6,15 @@
 #include <string.h>
 #include "print.h"
 
+/*
+
+crap crap crap
+
+
+*/ 
+
+
+
 int getCount(char* str){
   return strlen(str);
 }
