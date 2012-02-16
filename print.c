@@ -6,9 +6,6 @@
 #include "print.h"
 
 int main(int argc, char* argv[]){
-
-  name = "Anthony";
-
+  name = "Anthony Clark";
   printf("Hello, %s\n", name);
-
 }
